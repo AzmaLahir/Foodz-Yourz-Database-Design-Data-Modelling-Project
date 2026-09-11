@@ -21,4 +21,3 @@ This repository contains the conceptual Extended Entity-Relationship Diagram (EE
 ## Files Included
 - `Foodz_Yourz_Database_Design_Report.pdf`: Complete technical documentation covering business logic and logical schema transformation[cite: 2].
 - `EERD_Diagram.png`: High-resolution conceptual database architecture diagram[cite: 2].
-- `schema.sql`: SQL DDL scripts for table creation and key constraints.
