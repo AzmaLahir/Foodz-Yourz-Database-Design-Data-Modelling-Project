@@ -13,7 +13,7 @@ This repository contains the conceptual Extended Entity-Relationship Diagram (EE
 - Logical Mapping: EERD transformed into a normalized UML Logical Entity Relationship Diagram with Primary and Foreign Keys defined[cite: 2].
 
 ## Conceptual EERD Diagram
-![EERD Diagram](EERD_Diagram.png)
+![EERD Diagram](EERD_Diagram.jpg)
 
 ## Tools & Notations
 - UML Notation for Conceptual and Logical Modeling[cite: 2].
